@@ -1,12 +1,12 @@
-defaultAssertionDataset: superform_assertion
+defaultAssertionDataset: superform_assertion_312738149
 defaultLocation: EU
-defaultProject: dataform-package
+defaultProject: horze-bi
 vars:
-  GA4_DATASET: analytics_31337
-  LOCAL_TIMEZONE: Europe/Paris
-  QUALITY_DATASET: superform_quality_31337
-  TRANSFORMATIONS_DATASET: superform_transformations_31337
-  OUTPUTS_DATASET: superform_outputs_31337
+  GA4_DATASET: analytics_312738149
+  LOCAL_TIMEZONE: Europe/Brussels
+  QUALITY_DATASET: superform_quality_312738149
+  TRANSFORMATIONS_DATASET: superform_transformations_312738149
+  OUTPUTS_DATASET: superform_outputs_312738149
   LABEL_GENERIC_BRAND: superformlabs # constant
   LABEL_GENERIC_TOOL: ga4dataform # constant for now...
   LABEL_GENERIC_LICENSE_TYPE: core # core or premium
