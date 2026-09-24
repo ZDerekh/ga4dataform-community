@@ -11,7 +11,7 @@ This open-source repository contains all the Dataform files and folders that the
 You can use this repository to:
 1. Explore the code before installing it
 2. Implement parts of our queries or functions to your existing code
-3. Connect it to your Dataform repository by yourself
+3. Connect it to your Dataform repository
 
 Please take a look at our [documentation](https://docs.ga4dataform.com/docs/) if you want to learn more about GA4Dataform!
 
